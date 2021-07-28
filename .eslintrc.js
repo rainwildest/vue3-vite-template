@@ -20,8 +20,6 @@ module.exports = {
   },
   plugins: ["@typescript-eslint"],
   extends: [
-    // 'plugin:vue/vue3-essential',
-    // "plugin:react/recommended",
     "eslint:recommended",
     "plugin:@typescript-eslint/eslint-recommended",
     "plugin:@typescript-eslint/recommended",
