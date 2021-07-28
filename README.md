@@ -4,4 +4,5 @@
 
 ## 使用方法
 
-yarn dev 或者 npm run dev
+1. yarn 安装，或者 npm install 安装依赖包
+2. yarn dev 或者 npm run dev
