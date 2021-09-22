@@ -8,7 +8,7 @@
     "lint": "eslint src/**/*.{js,ts,tsx} --quiet --fix"
   },
   "dependencies": {
-    "vue": "^3.0.5"
+    "vue": "^2.6.14"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.28.5",
@@ -18,10 +18,10 @@
     "@vue/compiler-sfc": "^3.0.5",
     "eslint": "^7.31.0",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-prettier": "^4.0.0",
     "prettier": "^2.3.2",
     "typescript": "^4.3.2",
     "vite": "^2.4.4",
-    "vue-tsc": "^0.2.2"
+    "vue-tsc": "^0.3.0"
   }
 }
